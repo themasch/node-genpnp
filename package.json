@@ -1,0 +1,17 @@
+{
+  "name": "genpnp",
+  "version": "0.0.0",
+  "description": "gentoo package name parser",
+  "main": "index.js",
+  "devDependencies": {
+    "mocha": ""
+  }, 
+  "scripts": {
+    "test": "./node_modules/.bin/mocha test/*.test.js"
+  },
+  "keywords": [
+    "gentoo"
+  ],
+  "author": "Mark Schmale <masch@masch.it>",
+  "license": "MIT"
+}
