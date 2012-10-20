@@ -1,6 +1,6 @@
 {
   "name": "genpnp",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "gentoo package name parser",
   "main": "index.js",
   "devDependencies": {
@@ -11,7 +11,14 @@
   },
   "keywords": [
     "gentoo"
-  ],
+  ],  
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/themasch/node-genpnp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/themasch/node-genpnp/issues"
+  },
   "author": "Mark Schmale <masch@masch.it>",
   "license": "MIT"
 }
